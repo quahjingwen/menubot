@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7752801-7d14-4d5b-8ad1-4b0dec430dd4" name="Default Changelist" comment="" />
+    <list default="true" id="e7752801-7d14-4d5b-8ad1-4b0dec430dd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +124,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="491" />
+    <option name="x" value="273" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -143,6 +146,11 @@
               <item name="MenuBot" type="b2602c69:ProjectViewProjectNode" />
               <item name="MenuBot" type="462c0819:PsiDirectoryNode" />
               <item name="my_env" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MenuBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MenuBot" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -312,7 +320,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="491" y="23" width="1440" height="823" extended-state="0" />
+    <frame x="273" y="23" width="1440" height="823" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49808428" visible="true" weight="0.24606581" />
       <window_info id="Structure" order="1" sideWeight="0.5019157" side_tool="true" weight="0.2533137" />
